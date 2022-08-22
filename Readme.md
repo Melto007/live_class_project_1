@@ -1,4 +1,4 @@
-# Live class project 1 [live link]()
+# Live class project 1 [live link](https://my-live-class-project-1.netlify.app/)
 
 ## skills gained from this project
     - Learned to use float
